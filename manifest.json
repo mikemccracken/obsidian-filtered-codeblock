@@ -1,11 +1,11 @@
 {
-	"id": "slog-block-plugin",
-	"name": "Structured logging block plugin",
+	"id": "filtered-code-block-plugin",
+	"name": "Filtered code block plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "reformat bad slog blocks.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "display code blocks filtered through command line tools",
+	"author": "Michael McCracken",
+	"authorUrl": "https://github.com/mikemccracken",
 	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }

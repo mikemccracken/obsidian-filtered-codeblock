@@ -1,7 +1,7 @@
 {
-	"name": "slog block plugin",
+	"name": "Filtered Code Block Plugin",
 	"version": "1.0.0",
-	"description": "This is a slog block plugin)",
+	"description": "A plugin to filter code blocks through local binaries)",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
